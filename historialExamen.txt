@@ -1,0 +1,60 @@
+ 146  git clone https://gist.github.com/c30b7f7a5fb67e737fba21e63d1e05db.git instrucciones
+  
+147  cd intrucciones
+  
+148  cd instrucciones
+  
+149  rm -rf .git/
+  
+150  code .
+  
+151  mkdir examen372
+  
+152  cd examen372
+  
+153  echo "#! /bin/bash" > create.sh 
+  
+154  rm -rf webapp
+  
+155  ./create.sh
+  
+156  ./create.sh
+  
+157  ./create.sh
+  
+158  ./create.sh
+  
+159  ./create.sh
+  
+160  ./create.sh
+  161  
+./create.sh
+  
+162  history > historialExamen.txt
+
+
+ historial segunda parte hecho en mi casa
+ 144  cd instrucciones/examen372/webapp
+  145  cmd //c tree //F
+  146  ./create.sh
+  147  cd ..
+  148  ./create.sh
+  149  ./create.sh
+  150  cmd //c tree //F
+  151  cmd //c tree //F
+  152  ./create.sh
+  153  cmd //c tree //F
+  154  cd webapp
+  155  cmd //c tree //F
+  156  ./create.sh
+  157  cd ..
+  158  ./create.sh
+  159  cmd //c tree //F
+  160  ./create.sh
+  161  cmd //c tree //F
+  162  mv historial.txt desktop
+  163  mv historialExamen.txt Desktop
+  164  history
+
+Andres@andresito MINGW64 ~/Desktop/instrucciones/examen372 (master)
+ 
